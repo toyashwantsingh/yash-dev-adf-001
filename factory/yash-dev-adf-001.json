@@ -1,0 +1,9 @@
+{
+	"name": "yash-dev-adf-001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4aa5f7d0-01fa-4d0c-a2b0-d48d09e36abd",
+		"tenantId": "b55bb032-fbaa-45cb-9873-c537d8d0b732"
+	}
+}
